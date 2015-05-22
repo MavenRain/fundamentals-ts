@@ -13,15 +13,14 @@
     "polymer": "Polymer/polymer#0.5.2",
     "core-ajax": "Polymer/core-ajax#0.5.2"
   },
-  "version": "0.3.1",
-  "_release": "0.3.1",
+  "_release": "75207ee120",
   "_resolution": {
-    "type": "version",
-    "tag": "0.3.1",
-    "commit": "355de1737c3e1ee7e941b1ccf7ab0a69d5f63dea"
+    "type": "branch",
+    "branch": "publish-ts",
+    "commit": "75207ee12066a89449f5eee8f6e3d2597c2c8fb6"
   },
-  "_source": "git://github.com/cplusplus/html-doc-framework.git",
-  "_target": "~0.3.1",
-  "_originalSource": "cplusplus/html-doc-framework",
+  "_source": "/Users/jyasskin/src/cxx/html-doc-framework",
+  "_target": "publish-ts",
+  "_originalSource": "../html-doc-framework",
   "_direct": true
 }
